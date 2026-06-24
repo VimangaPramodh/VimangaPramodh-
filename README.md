@@ -49,7 +49,7 @@
 | **[NexTrader](https://nextrader.live)** | Flagship automated trading platform |
 | **[DayTrades.live](https://daytrades.live)** | Server-side autobots that keep running after the browser closes |
 | **[BinaryBot.live](https://binarybot.live)** | Binary options automation tools |
-| **Tuplemint** | Multilingual trading platform |
+| **[Tuplemint](https://tuplemint.com)** | Multilingual trading platform |
 
 ---
 
