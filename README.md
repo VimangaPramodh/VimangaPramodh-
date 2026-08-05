@@ -40,16 +40,6 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 </p>
 
----
-
-## 🚀 Featured work
-
-| Platform | What it is |
-|----------|------------|
-| **[NexTrader](https://nextrader.live)** | Flagship automated trading platform |
-| **[DayTrades.live](https://daytrades.live)** | Server-side autobots that keep running after the browser closes |
-| **[BinaryBot.live](https://binarybot.live)** | Binary options automation tools |
-| **[Tuplemint](https://tuplemint.com)** | Multilingual trading platform |
 
 ---
 
